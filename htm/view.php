@@ -5,7 +5,7 @@
 <script src="showName.js"></script>
 </head>
 <body>
-	<H1>DElete this text</H1>
+	
 <p><a href="insertForm.htm">Add a new record</a></p>
 <form action="view.php" method="get">
 <input list="name" name="search" onkeyup="searchName(this.value)">
