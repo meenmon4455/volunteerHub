@@ -4,6 +4,7 @@
 <title>Insertion</title>
 </head>
 <body>
+	<H1>DElete this text</H1>
 <?php
 //print_r($_POST);
 // connect to the database
